@@ -22,8 +22,8 @@
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primer Parcial	|    25 | 14/10/2020   | 1, 2, 3  |
-| Segundo Parcial   	|    25 | 2/12/2020    | 4, 5     |
-| Examen Final   	|    30 | 9/12/2020    | 1 al 5   |
+| Segundo Parcial   	|    25 | 7/12/2020    | 4, 5     |
+| Examen Final   	|    30 | 14/12/2020   | 1 al 5   |
 | Prácticas             |    20 |  |  |
 
 
@@ -34,8 +34,8 @@
 | 1	|    4 | 9/9/2020      | 1  |
 | 2	|    4 | 5/10/2020     | 2  |
 | 3  	|    4 | 14/10/2020    | 3  |
-| 4    	|    4 | 4/11/2020     | 4  |
-| 5    	|    4 | 2/12/2020     | 5  |
+| 4    	|    4 | 30/11/2020    | 4  |
+| 5    	|    4 | 7/12/2020     | 5  |
 
 Nota. Las prácticas deberán ser elaboradas en un procesador de textos o Sistema Tipográfico. En el caso de ejercicios de aplicación, no se aceptarán Rmarkdowns o corridas íntegras de R, incluir solo el código necesario.
 
@@ -50,8 +50,6 @@ Nota. Las prácticas deberán ser elaboradas en un procesador de textos o Sistema 
 | 5    | 12/10/2020       | 
 | 6    | 02/11/2020       | 
 | 7    | 11/11/2020       | 
-| 8    | 23/11/2020       | 
-| 9    | 30/11/2020       | 
 
 
 
