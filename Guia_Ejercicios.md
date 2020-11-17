@@ -24,9 +24,16 @@ El documento con el  desarrollo teórico-práctico debe ser subido en el espacio h
 
 
 ### `TEMA N° 4: Análisis de Conglomerados` 
+> - **EJERCICIOS TEÓRICO-PRÁCTICOS:**   1) 14.1, 2) 14.2, 3) 14.3, 4) 14.7, 5) 14.10.
+> - **INVESTIGACIÓN:** En cada uno de los casos, redactar brevemente la teoría según criterio personal,  además  desarrollar a detalle cada uno de los ejemplos citados.
+   >   - 14.6 Cluster Validity
+   >   - 14.7 Clustering Variables
 
 
 ### `TEMA N° 5: Procedimientos Gráficos` 
+> - **EJERCICIOS TEÓRICO-PRÁCTICOS:**   1) 15.1, 2) 15.3, 3) 15.8, 4) 15.12, 5) 15.16, 6) 15.18.
+> - **INVESTIGACIÓN:** Redactar brevemente la teoría según criterio personal,  además  desarrollar el ejemplo citado.
+   >   - 15.2.5 Multiple Correspondence Analysis
 
 
 ### `REFERENCIA BIBLIOGRÁFICA:` 
