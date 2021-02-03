@@ -5,11 +5,12 @@
 
 
 ## `Contenido Temático`
-> - Tema 1 : Análisis Multivariante de la Varianza 
-> - Tema 2 : Análisis Discriminante
-> - Tema 3 : Correlación Canónica
-> - Tema 4 : Análisis de Conglomerados
-> - Tema 5 : Procedimientos Gráficos
+> - Tema 1 : Análisis Factorial 
+> - Tema 2 : Análisis Multivariante de la Varianza 
+> - Tema 3 : Análisis Discriminante
+> - Tema 4 : Correlación Canónica
+> - Tema 5 : Análisis de Conglomerados
+> - Tema 6 : Procedimientos Gráficos
 
 
 ## `Bibliografía`
@@ -17,45 +18,30 @@
 * Rencher, Alvin C., (2002). “Methods of Multivariate Analysis”, Editorial Wiley Series in probability and statistics, Canada.
 
 
-
 ## `Evaluaciones Parciales`
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primer Parcial	|    25 | 14/10/2020   | 1, 2, 3  |
-| Segundo Parcial   	|    25 | 7/12/2020    | 4, 5     |
-| Examen Final   	|    30 | 14/12/2020   | 1 al 5   |
-| Prácticas             |    20 |  |  |
-
+| Primer Parcial	|    27 | 17/03/2021   | 1, 2   |
+| Segundo Parcial   	|    27 | 21/04/2021   | 3, 4   |
+| Tercer Parcial   	|    28 | 07/06/2021   | 5, 6   |
+| Prácticas             |    10 |  |  |
 
 
 ## `Prácticas`
 |  Práctica| Ponderación| Fecha  |  Tema |
 | ---------------- |:-------------:| ---------------- | :----------: |
-| 1	|    4 | 9/9/2020      | 1  |
-| 2	|    4 | 5/10/2020     | 2  |
-| 3  	|    4 | 14/10/2020    | 3  |
-| 4    	|    4 | 7/12/2020    | 4  |
-| 5    	|    4 | 7/12/2020     | 5  |
+| 1	|    3 | 1/3/2021      | 1  |
+| 2	|    3 | 17/3/2021     | 2  |
+| 3  	|    3 | 7/4/2021      | 3  |
+| 4    	|    3 | 21/4/2021     | 4  |
+| 5    	|    3 | 12/5/2021     | 5  |
+| 6    	|    3 | 7/6/2020      | 6  |
 
-Nota. Las prácticas deberán ser elaboradas en un procesador de textos o Sistema Tipográfico. En el caso de ejercicios de aplicación, no se aceptarán Rmarkdowns o corridas íntegras de R, incluir solo el código necesario.
-
-
-## `Video / Video Conferencias por Google Meet`
-| Tema |  Fecha  |  
-| ---------------- | ---------------- | 
-| 1    | 17/08/2020       | 
-| 2    | 31/08/2020       | 
-| 3    | 14/09/2020       | 
-| 4    | 28/09/2020       | 
-| 5    | 12/10/2020       | 
-| 6    | 02/11/2020       | 
-| 7    | 11/11/2020       | 
-
-
-
+Nota. Las prácticas deberán ser elaboradas en un procesador de textos o Sistema Tipográfico. En el caso de ejercicios de aplicación, no se aceptarán Rmarkdowns o corridas íntegras de R, incluir solo el código necesario y un resumen de los resulta
+dos más sobresalientes juntamente la interpretación.
 ### `Examen Recuperatorio`
-> Miércoles 16 de diciembre : Temas correspondientes al parcial
+> Lunes 14 de junio : Todos los temas correspondientes al contenido de la materia
 
 
 ### `Publicación de Notas Finales`
-> Lunes 21 de diciembre
+> Miércoles 16 de junio
