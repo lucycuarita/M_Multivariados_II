@@ -24,7 +24,7 @@
 | Primer Parcial	|    27 | 17/03/2021   | 1, 2   |
 | Segundo Parcial   	|    27 | 21/04/2021   | 3, 4   |
 | Tercer Parcial   	|    28 | 07/06/2021   | 5, 6   |
-| Prácticas             |    10 |  |  |
+| Prácticas             |    18 |  |  |
 
 
 ## `Prácticas`
@@ -39,9 +39,10 @@
 
 Nota. Las prácticas deberán ser elaboradas en un procesador de textos o Sistema Tipográfico. En el caso de ejercicios de aplicación, no se aceptarán Rmarkdowns o corridas íntegras de R, incluir solo el código necesario y un resumen de los resulta
 dos más sobresalientes juntamente la interpretación.
+
 ### `Examen Recuperatorio`
-> Lunes 14 de junio : Todos los temas correspondientes al contenido de la materia
+> 14/06/2021 : Todos los temas correspondientes al contenido de la materia
 
 
 ### `Publicación de Notas Finales`
-> Miércoles 16 de junio
+> 16/06/2021
